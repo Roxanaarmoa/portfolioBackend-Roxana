@@ -5,5 +5,16 @@
     "express": "^5.1.0",
     "node": "^24.6.0",
     "nodemailer": "^7.0.5"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "portfoliobackend-roxana",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
